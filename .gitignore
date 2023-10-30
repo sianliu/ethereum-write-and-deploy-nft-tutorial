@@ -1,0 +1,8 @@
+# solidity
+artifacts/
+
+# mypy
+node_modules
+
+# environments
+.env
