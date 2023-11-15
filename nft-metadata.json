@@ -1,8 +1,8 @@
 {
   "attributes": [
     {
-      "Qubits": "7",
-      "Depth": 14
+      "Qubits": "5",
+      "Depth": "1"
     }
   ],
   "description": "Shor factor 15",

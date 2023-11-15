@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/sianliu/ethereum-write-and-deploy-nft-tutorial/contracts/MyNFT.sol": {
-      "lastModificationDate": 1698379076780,
-      "contentHash": "4eae45d0deeff19d5bbff7c1d2c4e46e",
+      "lastModificationDate": 1698382704719,
+      "contentHash": "b405178013cbfeab41e1728e67c431e8",
       "sourceName": "contracts/MyNFT.sol",
       "solcConfig": {
         "version": "0.8.20",
